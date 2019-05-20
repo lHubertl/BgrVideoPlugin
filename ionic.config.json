@@ -1,5 +1,7 @@
 {
   "name": "BgrVideoPluginProj",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
